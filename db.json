@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "lname": "lname 1",
+      "email": "email 1",
+      "bday": "bday 1",
+      "password": "pwd 1",
+      "country": "country 1",
+      "fname": "1"
+    },
+    {
+      "lname": "lname 2",
+      "email": "email 2",
+      "bday": "bday 2",
+      "password": "pwd 2",
+      "country": "country 2",
+      "fname": "2"
+    },
+    {
+      "lname": "lname 3",
+      "email": "email 3",
+      "bday": "bday 3",
+      "password": "pwd 3",
+      "country": "country 3",
+      "fname": "3"
+    }
+  ],
+  "signUpUsers": {
+    "fname": "alex",
+    "lname": "alex",
+    "email": "alex@alex",
+    "bday": "2022-08-17",
+    "password": "alexalex",
+    "country": "AU"
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}

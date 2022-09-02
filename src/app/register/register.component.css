@@ -1,0 +1,106 @@
+
+form{
+    width: 490px;
+    margin-top: -40px;
+    margin-right: 40px;
+    
+}
+*{box-sizing: border-box;
+}
+input[type=text], input[type=email], input[type=date], input[type=date],input[type=select],input[type=password], input[type=tel]
+{
+    width: 110%;
+    padding: 5px;
+    border: 2px solid rgb(168, 166, 166);
+    border-radius: 11px;
+    resize: vertical;
+    font-size: medium;
+}
+textarea{
+    width:45%;
+    padding:12px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 11px;
+    resize: vertical;
+    margin-right: 5px;
+
+}
+.radio_class {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 10px;
+    background-color: #eee;
+    border-radius: 11%;
+    }h1{
+    font-family: Arial;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    color: #5857c1
+    ;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+input[type=submit] {
+    background-color: #1d1c1c
+    ;
+    color: white;
+    margin-top: -10px;
+    margin-left: 420px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 20px;
+    border: none;
+    border-radius: 11px;
+    cursor: pointer;
+    float:left;
+
+}
+input[type=button] {
+    background-color: #deb887
+    ;
+    color: white;
+    margin-top: -572px;
+    margin-left: -45px;
+    padding: 0px 15px;
+    border: none;
+    border-radius: 11px;
+    cursor: pointer;
+    float:left;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input[type=submit]:hover {
+background-color: #b0c4de
+;
+
+}
+.container{
+    border-radius: 0px;
+    width: 1400px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+select {
+    appearance: none;
+    background-color: white;
+    border: 2px solid rgb(168, 166, 166);
+    border-radius: 11px;
+    padding: 12px;;
+    margin: 0;
+    width: 105%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}  

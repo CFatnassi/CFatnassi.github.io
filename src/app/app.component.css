@@ -1,0 +1,29 @@
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:linear-gradient(135deg, #1798fb 0%, black 100%);
+}
+.nav{
+    display: flex;
+    color: black;
+    background-color: white;
+    margin-top: -700px;
+    
+}
+.site-name{
+    padding: 5px 40px;
+    color: azure;
+}
+.site-menu{
+    padding: 0px 0px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: azure;
+    margin: 00px  80px;
+}
+
